@@ -5,6 +5,7 @@
     "feed_url": "https://ogwpd.tk/test/index.json",
     "favicon": "https://ogwpd.tk/jsonfeed/feedogwpd.ico"
     "icon": "https://ogwpd.tk/jsonfeed/feedogwpd.png"
+    
     "items": [
         {
             "id": "2",
