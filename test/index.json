@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "OGWPD Test Feed",
+    "home_page_url": "https://ogwpd.tk",
+    "feed_url": "https://ogwpd.tk/test/index.json",
+    "icon": "https://ogwpd.tk/jsonfeed/feedogwpd.png"
+    "favicon": "https://ogwpd.tk/jsonfeed/feedogwpd.png"
+    "items": [
+        {
+            "id": "2",
+            "content_text": "This is a second item.",
+            "url": "https://example.org/second-item"
+        },
+        {
+            "id": "1",
+            "content_html": "<p>Hello, world!</p>",
+            "url": "https://example.org/initial-post"
+        }
+    ]
+}
