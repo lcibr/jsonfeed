@@ -1,10 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "My Example Feed",
+    "title": "OGWPD Testing JSON Feed",
     "home_page_url": "https://example.org/",
     "feed_url": "https://example.org/feed.json",
-    "favicon": "https://ogwpd.tk/jsonfeed/feedogwpd.ico",
     "icon": "https://ogwpd.tk/jsonfeed/feedogwpd.png",
+    "favicon": "https://ogwpd.tk/jsonfeed/feedogwpd.ico",
     "items": [
         {
             "id": "2",
