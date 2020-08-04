@@ -3,8 +3,8 @@
     "title": "My Example Feed",
     "home_page_url": "https://example.org/",
     "feed_url": "https://example.org/feed.json",
-    "favicon": "https://ogwpd.tk/jsonfeed/feedogwpd.ico"
-    "icon": "https://ogwpd.tk/jsonfeed/feedogwpd.png"
+    "favicon": "https://ogwpd.tk/jsonfeed/feedogwpd.ico",
+    "icon": "https://ogwpd.tk/jsonfeed/feedogwpd.png",
     "items": [
         {
             "id": "2",
